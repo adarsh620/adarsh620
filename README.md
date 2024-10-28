@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shukla</h1>
 <h3 align="center">
-  <marquee width="60%" direction="left" height="100px">A Passionate <i>Backend Developer</i> from India</marquee>
+  <marquee width="60%" direction="left" height="100px">A Passionate <i>Full Stack Developer</i> from India</marquee>
 </h3>
 
 <!-- Right-side image -->
