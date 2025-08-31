@@ -20,7 +20,7 @@
 
 <!-- About Me section -->
 ### About Me
-- 🔭 I’m currently working as a **Backend Developer at Nagarro**  
+- 🔭 I’m currently working as a **Backend Developer at Pitney Bowes**  
 - 🌱 I’m currently learning **Spring Boot** and expanding my skills in **Java** for backend development  
 - 👯 I’m looking to collaborate on **Java-based and React projects**
 - 🤝 I’m looking for help with **Java-based Projects**  
